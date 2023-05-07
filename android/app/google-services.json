@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901650323147",
+    "project_id": "webrtcflutter20230507",
+    "storage_bucket": "webrtcflutter20230507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901650323147:android:6f8cbe7f29136262bc2d4e",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901650323147-0q5ph956tejtnv3dtojkulemsrot9odd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk2vqSBelcwoyMYI3Qov3B7t4F6WlZGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901650323147-0q5ph956tejtnv3dtojkulemsrot9odd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
